@@ -14,9 +14,8 @@ const shuffleArray = (array: any[]) => {
 };
 
 const App: React.FC = () => {
-	const [questions, setQuestions] = useState(() =>
-		shuffleArray([...questionsData])
-	);
+	const [questions, _] = useState(() => shuffleArray([...questionsData]));
+
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [completedQuestions, setCompletedQuestions] = useState<
 		Record<number, boolean>
@@ -35,12 +34,6 @@ const App: React.FC = () => {
 	const handlePrev = () => {
 		if (currentIndex > 0) {
 			setCurrentIndex(currentIndex - 1);
-		}
-	};
-
-	const handleNext = () => {
-		if (currentIndex < questions.length - 1) {
-			setCurrentIndex(currentIndex + 1);
 		}
 	};
 
@@ -71,7 +64,6 @@ const App: React.FC = () => {
 				currentIndex={currentIndex}
 				totalQuestions={questions.length}
 				onPrev={handlePrev}
-				onNext={handleNext}
 				onMarkDone={handleMarkDone}
 			/>
 			<button onClick={handleReset} className="reset-button">
