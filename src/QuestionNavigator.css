@@ -17,3 +17,9 @@
 .navigator span {
 	font-size: 1.2em;
 }
+
+.flex-container {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}

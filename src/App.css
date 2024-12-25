@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap");
+
 #root {
 	/* max-width: 1280px; */
 	margin: 0 auto;
@@ -12,6 +14,17 @@
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	background-color: #f0f0f0;
-	font-family: "Arial", sans-serif;
+	background: linear-gradient(to bottom, #006994, #004c6d);
+	font-family: "Titillium Web", sans-serif;
+	color: white;
+}
+
+.reset-button {
+	font-size: 1em;
+	cursor: pointer;
+	background-color: #005f73;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	align-self: center;
 }

@@ -23,7 +23,11 @@
 }
 
 .card.done .card-content {
-  opacity: 0.5;
+	opacity: 0.5;
+}
+
+.card p {
+	padding: 0.5rem;
 }
 
 .card-front,
@@ -36,22 +40,21 @@
 	align-items: center;
 	justify-content: center;
 	font-size: 1.5em;
-	border: 1px solid #ccc;
 	border-radius: 10px;
-	background-color: #fff;
-	color: black;
+	background-color: #006994;
+	color: white;
 }
 
 .card-front::after {
-  content: '';
+	content: "";
 }
 
 .card.done .card-front::after {
-  content: ' ✅';
-  font-size: 1em;
-  position: absolute;
-  right: 10px;
-  bottom: 10px;
+	content: " ✅";
+	font-size: 1em;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
 }
 
 .card-back {

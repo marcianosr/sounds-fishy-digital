@@ -67,10 +67,8 @@ const App: React.FC = () => {
 				totalQuestions={questions.length}
 				onPrev={handlePrev}
 				onMarkDone={handleMarkDone}
+				handleReset={handleReset}
 			/>
-			<button onClick={handleReset} className="reset-button">
-				Reset
-			</button>
 		</div>
 	);
 };
