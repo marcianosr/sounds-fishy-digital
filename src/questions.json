@@ -778,5 +778,250 @@
 		"id": 149,
 		"question": "Welke diersoort leeft het diepst in de oceaan?",
 		"correct_answer": "Marianenslok vis"
+	},
+	{
+		"id": 151,
+		"question": "Wat is de naam van de grootste waterval die volledig onder water ligt?",
+		"correct_answer": "Denmark Strait waterval"
+	},
+	{
+		"id": 152,
+		"question": "Welke diersoort kan zonder slaap overleven?",
+		"correct_answer": "Mier"
+	},
+	{
+		"id": 153,
+		"question": "Wat is het koudste punt in het heelal dat ooit is waargenomen?",
+		"correct_answer": "Boomerangnevel"
+	},
+	{
+		"id": 154,
+		"question": "Welke vogel kan zowel op water lopen als vliegen?",
+		"correct_answer": "Jacana"
+	},
+	{
+		"id": 155,
+		"question": "Welke stad heeft de meest complexe ondergrondse riolering?",
+		"correct_answer": "Parijs"
+	},
+	{
+		"id": 156,
+		"question": "Welke diersoort gebruikt gif als verdedigingsmechanisme en produceert licht?",
+		"correct_answer": "Kwallen"
+	},
+	{
+		"id": 157,
+		"question": "Welke plantensoort groeit sneller dan elke andere?",
+		"correct_answer": "Bamboe"
+	},
+	{
+		"id": 158,
+		"question": "Wat is het diepste meer ter wereld?",
+		"correct_answer": "Baikalmeer"
+	},
+	{
+		"id": 159,
+		"question": "Welke ster is de grootste in diameter die bekend is?",
+		"correct_answer": "UY Scuti"
+	},
+	{
+		"id": 160,
+		"question": "Welke vissoort kan over land kruipen?",
+		"correct_answer": "Slijkspringer"
+	},
+	{
+		"id": 161,
+		"question": "Welke metaalsoort wordt het meest gebruikt in batterijen?",
+		"correct_answer": "Lithium"
+	},
+	{
+		"id": 162,
+		"question": "Wat is het oudste skelet dat ooit is gevonden?",
+		"correct_answer": "Lucy"
+	},
+	{
+		"id": 163,
+		"question": "Welke planeet heeft de kortste dag in ons zonnestelsel?",
+		"correct_answer": "Jupiter"
+	},
+	{
+		"id": 164,
+		"question": "Welke vogelsoort kan verticale oppervlakken beklimmen?",
+		"correct_answer": "Boomkruiper"
+	},
+	{
+		"id": 165,
+		"question": "Welke taal heeft de moeilijkste grammatica volgens linguïsten?",
+		"correct_answer": "Basque"
+	},
+	{
+		"id": 166,
+		"question": "Wat is de meest radioactieve locatie op aarde?",
+		"correct_answer": "Fukushima"
+	},
+	{
+		"id": 167,
+		"question": "Welke insectensoort kan chemische signalen sturen?",
+		"correct_answer": "Mieren"
+	},
+	{
+		"id": 168,
+		"question": "Wat is het grootste levende koraalrif op aarde?",
+		"correct_answer": "Great Barrier Reef"
+	},
+	{
+		"id": 169,
+		"question": "Welke rivier stroomt zowel boven als ondergronds?",
+		"correct_answer": "Puerto Princesa"
+	},
+	{
+		"id": 170,
+		"question": "Wat is de meest waardevolle edelsteen per karaat?",
+		"correct_answer": "Rode diamant"
+	},
+	{
+		"id": 171,
+		"question": "Welke soort vis leeft in onderwatermeren?",
+		"correct_answer": "Zwavelvis"
+	},
+	{
+		"id": 172,
+		"question": "Welke vogel kan ondersteboven hangen terwijl hij vliegt?",
+		"correct_answer": "Vleermuiszwaluw"
+	},
+	{
+		"id": 173,
+		"question": "Wat is de oudste munt die ooit is gevonden?",
+		"correct_answer": "Lydische stater"
+	},
+	{
+		"id": 174,
+		"question": "Welke diersoort kan onzichtbaar worden onder ultraviolet licht?",
+		"correct_answer": "Zeekomkommer"
+	},
+	{
+		"id": 175,
+		"question": "Welke diersoort kan het verste geluid maken onder water?",
+		"correct_answer": "Blauwe vinvis"
+	},
+	{
+		"id": 176,
+		"question": "Welke boomsoort kan zelf water opslaan in zijn stam?",
+		"correct_answer": "Baobab"
+	},
+	{
+		"id": 177,
+		"question": "Welke plant produceert de grootste bloem ter wereld?",
+		"correct_answer": "Rafflesia arnoldii"
+	},
+	{
+		"id": 178,
+		"question": "Welke planeet heeft een ringensysteem dat slechts uit stof bestaat?",
+		"correct_answer": "Jupiter"
+	},
+	{
+		"id": 179,
+		"question": "Wat is de enige vogelsoort die kan slapen tijdens het vliegen?",
+		"correct_answer": "Albatros"
+	},
+	{
+		"id": 180,
+		"question": "Wat is de diepste bekende vulkaan op aarde?",
+		"correct_answer": "West Mata"
+	},
+	{
+		"id": 181,
+		"question": "Welke stof is het zwaarste metaal op aarde?",
+		"correct_answer": "Osmium"
+	},
+	{
+		"id": 182,
+		"question": "Welke diersoort leeft in een symbiotische relatie met giftige kwallen?",
+		"correct_answer": "Kreeftanemoon"
+	},
+	{
+		"id": 183,
+		"question": "Welke ster is het helderste in het sterrenbeeld Leeuw?",
+		"correct_answer": "Regulus"
+	},
+	{
+		"id": 184,
+		"question": "Wat is het oudste stuk glas dat ooit is gevonden?",
+		"correct_answer": "Mesopotamisch glas"
+	},
+	{
+		"id": 185,
+		"question": "Welke rivier heeft de grootste delta ter wereld?",
+		"correct_answer": "Ganges"
+	},
+	{
+		"id": 186,
+		"question": "Welke slang heeft het sterkste gif?",
+		"correct_answer": "Inland taipan"
+	},
+	{
+		"id": 187,
+		"question": "Welke diersoort kan zijn eigen lichaamsdelen regenereren?",
+		"correct_answer": "Axolotl"
+	},
+	{
+		"id": 188,
+		"question": "Welke gasplaneet is de lichtste in massa?",
+		"correct_answer": "Saturnus"
+	},
+	{
+		"id": 189,
+		"question": "Welke stad heeft de oudste bibliotheek ter wereld?",
+		"correct_answer": "Fez"
+	},
+	{
+		"id": 190,
+		"question": "Welke diersoort kan rennen op het wateroppervlak?",
+		"correct_answer": "Basiliskhagedis"
+	},
+	{
+		"id": 191,
+		"question": "Wat is de meest afgelegen bewoonde plek op aarde?",
+		"correct_answer": "Tristan da Cunha"
+	},
+	{
+		"id": 192,
+		"question": "Welke zeedieren maken gebruik van sonar om te navigeren?",
+		"correct_answer": "Dolfijnen"
+	},
+	{
+		"id": 193,
+		"question": "Welke plant kan het hoogste zuurstofniveau produceren?",
+		"correct_answer": "Wier"
+	},
+	{
+		"id": 194,
+		"question": "Wat is de naam van de oudste bekende meteoorinslagkrater?",
+		"correct_answer": "Vredefort"
+	},
+	{
+		"id": 195,
+		"question": "Welke soort eekhoorn kan vliegen?",
+		"correct_answer": "Vliegende eekhoorn"
+	},
+	{
+		"id": 196,
+		"question": "Welke diersoort heeft de meeste genen in zijn DNA?",
+		"correct_answer": "Axolotl"
+	},
+	{
+		"id": 197,
+		"question": "Welke vis kan zijn eigen gewicht verdrievoudigen door water op te zuigen?",
+		"correct_answer": "Kogelvis"
+	},
+	{
+		"id": 198,
+		"question": "Welke sterrenstelsels botsen over 4 miljard jaar?",
+		"correct_answer": "Melkweg en Andromeda"
+	},
+	{
+		"id": 199,
+		"question": "Welke pinguïnsoort leeft het verst naar het noorden?",
+		"correct_answer": "Galapagospinguïn"
 	}
 ]
