@@ -1,0 +1,59 @@
+/* Styling for the QuestionCard component */
+.card {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	perspective: 1000px;
+	cursor: pointer;
+}
+
+.card-content {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.6s;
+	transform-style: preserve-3d;
+	font-weight: 900;
+	font-size: 2rem;
+}
+
+.card.flipped .card-content {
+	transform: rotateY(180deg);
+}
+
+.card.done .card-content {
+  opacity: 0.5;
+}
+
+.card-front,
+.card-back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 1.5em;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	background-color: #fff;
+	color: black;
+}
+
+.card-front::after {
+  content: '';
+}
+
+.card.done .card-front::after {
+  content: ' ✅';
+  font-size: 1em;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+
+.card-back {
+	transform: rotateY(180deg);
+}

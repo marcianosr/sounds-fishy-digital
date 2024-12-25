@@ -1,0 +1,19 @@
+/* Styling for the QuestionNavigator component */
+.navigator {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 20px 0;
+	color: black;
+}
+
+.navigator button {
+	padding: 10px 20px;
+	margin: 0 10px;
+	font-size: 1em;
+	cursor: pointer;
+}
+
+.navigator span {
+	font-size: 1.2em;
+}
