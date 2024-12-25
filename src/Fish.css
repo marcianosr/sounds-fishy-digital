@@ -1,0 +1,17 @@
+.fish {
+	position: absolute;
+	font-size: 1.5rem;
+	animation: swim 20s linear infinite;
+	z-index: 10;
+	transform: scale(1.5);
+  opacity: 0.7;
+}
+
+@keyframes swim {
+	0% {
+		transform: translateX(100vw);
+	}
+	100% {
+		transform: translateX(-100%);
+	}
+}

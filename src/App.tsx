@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import QuestionCard from "./QuestionCard";
 import QuestionNavigator from "./QuestionNavigator";
+import Fish from "./Fish";
 import questionsData from "./questions.json";
 import "./App.css";
 
@@ -55,6 +56,7 @@ const App: React.FC = () => {
 
 	return (
 		<div className="app">
+			<Fish />
 			<QuestionCard
 				question={questions[currentIndex].question}
 				answer={questions[currentIndex].correct_answer}
